@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class Aplicacao {
 
     public static void main(String[] args) {
         /* Base para testes com pilha, fila e lista encadeada */
